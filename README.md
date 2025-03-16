@@ -93,10 +93,10 @@ __pycache__/
 
 ## 💡 Notes
 - This project was initially developed in Jupyter Notebooks inside an Anaconda environment.
-- Ensure you have your `kaggle.json` API token in place if you use automated downloads.
+- Ensure you have your `kaggle.json` API token if you use automated downloads.
 - For GPU training, ensure your system is configured with CUDA-compatible TensorFlow and proper NVIDIA drivers.
 
 ---
 
-## 📩 Contact  
-For any queries or setup help, feel free to reach out!
+## 📩 If further help is needed, ChatGPT was really good helping setting up the project at the start  
+
